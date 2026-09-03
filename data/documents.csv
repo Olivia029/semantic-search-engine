@@ -1,0 +1,11 @@
+id,title,text
+1,Kubernetes Deployment,How to deploy machine learning models on Kubernetes using Docker containers and autoscaling.
+2,Docker Basics,Learn how Docker containers simplify software deployment and reproducibility.
+3,FastAPI Tutorial,Build high performance REST APIs in Python using FastAPI and Pydantic.
+4,PyTorch Training,Train deep neural networks with PyTorch including GPU acceleration.
+5,Git Branches,Understand branching merging and pull requests in Git workflows.
+6,Vector Databases,Store embeddings efficiently using FAISS and nearest neighbor search.
+7,Sentence Transformers,Generate semantic embeddings with MiniLM for NLP applications.
+8,CI CD Pipelines,Automate testing and deployment using GitHub Actions.
+9,Machine Learning Metrics,Evaluate models with precision recall F1 score and ROC AUC.
+10,Streamlit Dashboard,Create interactive data science applications with Streamlit.
