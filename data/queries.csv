@@ -1,7 +1,7 @@
-query,relevant_id
-deploy kubernetes models,1
-docker containers,2
-semantic embeddings,7
-faiss vector search,6
-fastapi rest api,3
-streamlit app,10
+id,query,relevant_id
+1,deploy kubernetes models,1
+2,docker containers,2
+3,semantic embeddings,7
+4,faiss vector search,6
+5,fastapi rest api,3
+6,streamlit app,10
